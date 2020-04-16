@@ -9,7 +9,6 @@ using ConferenceDTO;
 
 namespace BackEnd.Controllers
 {
-    [Route("/api/[controller]")]
     [ApiController]
     public class AttendeesController : ControllerBase
     {
